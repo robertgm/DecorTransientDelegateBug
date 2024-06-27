@@ -1,0 +1,6 @@
+@DecorTransientDelegateBug_HostAddress = http://localhost:5116
+
+GET {{DecorTransientDelegateBug_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
